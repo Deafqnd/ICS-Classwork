@@ -1,0 +1,23 @@
+numlist = []
+
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+numlist.append(-113)
+
+print('Slot 0 contains a {}'.format(numlist[0]))
+print('Slot 1 contains a {}'.format(numlist[1]))
+print('Slot 2 contains a {}'.format(numlist[2]))
+print('Slot 3 contains a {}'.format(numlist[3]))
+print('Slot 4 contains a {}'.format(numlist[4]))
+print('Slot 5 contains a {}'.format(numlist[5]))
+print('Slot 6 contains a {}'.format(numlist[6]))
+print('Slot 7 contains a {}'.format(numlist[7]))
+print('Slot 8 contains a {}'.format(numlist[8]))
+print('Slot 9 contains a {}'.format(numlist[9]))
